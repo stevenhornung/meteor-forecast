@@ -1,0 +1,6 @@
+{
+    "name": "meteor-forecast",
+    "description": "Meteor Forecast.io Wrapper",
+    "version": "1.0.0",
+    "packages": {}
+}
